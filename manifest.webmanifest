@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Webapp de Radio City Durazno, FM 95.1",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fm-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Radio City Durazno",
+  "short_name": "Radios",
+  "start_url": "setup/rcity/index.html"
+}
