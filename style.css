@@ -1,9 +1,12 @@
 html {
   height: 100%;
-  background: black;
+  background: green;
 }
 
-
+body {
+  height: inherit;
+  margin: 0;
+}
 
 img {
   display: block;
